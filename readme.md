@@ -6,9 +6,9 @@ Welcome to my central data analysis repository! This monorepo features end-to-en
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python (Pandas, NumPy, PySpark)
+- **Languages:** Python (Pandas)
 - **Visualization:** Matplotlib, Seaborn
 - **Environments:** Jupyter Notebooks, VS Code, Databricks
-- **Database / Tools:** SQL, Git/GitHub, FastAPI
+- **Database / Tools:** SQL, Git/GitHub
 
 ---
